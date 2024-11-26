@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to the blog
 
-_yay_
+Nothing for now... come back soon!
 
-[back](./)
+[Back](./)
